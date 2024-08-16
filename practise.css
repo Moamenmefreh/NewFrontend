@@ -1,0 +1,59 @@
+.expertise {
+    padding: 5%;
+    background-color: rgb(182 183 184 / 86%);
+
+}
+.expertise .container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.expertise .container div{
+    width: 45%;
+
+}
+.expertise h1{
+margin: 5% 0px;
+font-size: 40px;
+opacity: .8;
+font-family:'Lato', sans-seri ;
+
+}
+.expertise .container div h2{
+    font-weight: 100;
+    font-size: 30px;
+    margin-bottom: 5%;
+    color: rgb(32, 43, 64);
+    font-family:'Lato', sans-seri ;
+
+}
+.expertise .container div p{
+    font-size: 20px;
+    margin-bottom: 14%;
+    font-weight: 100;
+    color: rgb(32, 43, 64);
+
+  font-family:'Lato', sans-seri ;
+
+}
+.help{
+    color: white;
+   
+}
+.help div h1{
+    font-size: 69px;
+    font-family:'Lato', sans-seri ;
+    font-weight: 100;
+    margin-bottom: 1%;
+}
+.help div p{
+    font-size: 83px;
+}
+.help div a{
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    background-color: white;
+    margin-top: 5%;
+    padding: 18px 25px;
+}
